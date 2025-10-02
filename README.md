@@ -1,2 +1,2 @@
-# CSS_Project_v1
-first version of css project
+# CSS_Project
+final version of css project _ Hekto
